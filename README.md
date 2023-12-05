@@ -45,4 +45,4 @@ both feet (in runs 5, 6, 9, 10, 13, and 14)
 
 
 
-[Link to My Jupyter Notebook](Notebook.ipynb)
+[Link to My Jupyter Notebook](Notebook.html)
